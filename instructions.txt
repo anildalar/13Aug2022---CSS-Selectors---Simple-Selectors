@@ -1,0 +1,14 @@
+Types of CSS Selectors
+
+	1. Simple Selectors
+				
+				1.1 Element Selector
+								syntax
+								selector{
+										property:value;
+								}
+
+								e.g 
+								h1{
+										color:red;
+								}
