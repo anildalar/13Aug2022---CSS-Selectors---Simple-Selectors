@@ -12,3 +12,22 @@ Types of CSS Selectors
 								h1{
 										color:red;
 								}
+				1.2 ID Selector  #
+								syntax
+								selector{
+										property:value;
+								}
+
+								e.g 
+								h1{
+										color:red;
+								}
+
+div = division
+
+<start attribute="value">Content Area</endtag>
+<div >Content area</div>
+
+1em = 16px
+
+2em  =32px
